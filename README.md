@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @maxyurk
-- 💼 I'm a team lead at JFrog
+- 💼 I'm an Architect, manager at JFrog
